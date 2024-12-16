@@ -1,5 +1,7 @@
 Project title:
  A Pedagogical Conversational Agent for Stanford CS 106B Online Lectures
+
+ 
 Project desrciption:
   I built a chatbot for Stanford’s Data Structures
   and Algorithms (CS 106B) course that seeks to at-
