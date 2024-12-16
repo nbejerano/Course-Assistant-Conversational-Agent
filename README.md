@@ -1,5 +1,5 @@
 Project title:
- A Pedagogical Conversational Agent for Stanford CS 106B Online Lectures by Naama Bejerano
+ A Pedagogical Conversational Agent for Stanford CS 106B Online Lectures
 Project desrciption:
   I built a chatbot for Stanford’s Data Structures
   and Algorithms (CS 106B) course that seeks to at-
@@ -17,7 +17,7 @@ Project desrciption:
 Table of Contents:
    JSON file of course trasncript with metadata - this file contains all of the CS106B course transcript information organized into a JSON file to
      - Not included due to confidentiality constraints
-  chatbot.py - this file contains all of the content for the chatbot from processing the user query to running the streamlit UI
+  Poster Presentation.pdf - this file contains an overview of the project as a whole along with technical implementation, testing, and results
 
 How to run chatbot: 
     1. In the terminal run the line: export TOGETHER_API_KEY = "" 
